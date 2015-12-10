@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+gem "codeclimate-test-reporter", group: :test, require: nil
+
